@@ -68,7 +68,7 @@ Additional technical indicators:
 - Short positions in bottom 3 ranked stocks
 - Dollar-neutral portfolio (50% long, 50% short)
 - Volatility-adjusted position sizing
-- Monthly rebalancing on the first trading day of each month
+- POsrtfolio rebalances monthly automatically as it rebalances everyday
 
 ## Risk Management
 
@@ -103,9 +103,6 @@ Additional technical indicators:
 ### Validation Methods
 
 - Walk-forward analysis
-- Time-series cross-validation
-- Out-of-sample testing
-- Performance attribution analysis
 
 ## Performance Analysis
 
