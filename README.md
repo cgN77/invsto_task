@@ -1,4 +1,4 @@
-# invsto_task# Quantitative Trading Strategy
+Quantitative Trading Strategy
 
 A multi-factor long-short equity trading strategy that generates alpha by going long on stocks expected to outperform and short on stocks expected to underperform.
 
